@@ -1,5 +1,24 @@
 /* Your Website Styles */
+body {
+	background: url("../img/bg.png") #285877;
+}
 
+h1 {
+
+	font-family: 'Lobster'; cursive;
+	color: orange;
+	font-style: italic;
+
+	background: red;
+	padding: 10px;
+	border: 10px black double;
+	width: 300px;
+	margin: 10px;
+}
+
+p {
+	line-height: 36px
+}
 
 /* Show Grid */
 .showgrid {
