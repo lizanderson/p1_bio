@@ -1,26 +1,47 @@
 /* Your Website Styles */
 body {
-	background: url("../img/bg.png") #285877;
+	background: url("../img/streak.jpg") no-repeat;
+	max-width: 100%;
+	text-align: center;
 }
 
 h1 {
-
-	font-family: 'Lobster'; cursive;
-	color: orange;
-	font-style: italic;
-
-	background: red;
-	padding: 10px;
-	border: 10px black double;
-	width: 300px;
-	margin: 10px;
+	font-family: 'Baskerville';
+	text-align: center;
+	font-size: 5em;
 }
 
-p {
-	line-height: 36px
+h3 {
+	color: white;
+	text-align: center;
+}
+
+div {
+	color: white;
+	text-align: center;
+}
+
+.img p {
+	color: white;
+	text-align: center;
+}
+
+img {
+	max-width: 200px;
+	text-align: center;
+	max-height: 250px;
+}
+
+.subhead {
+	font-style: none;
+}
+
+a {
+	text-decoration: none;
+	color: #227799;
 }
 
 /* Show Grid */
 .showgrid {
-	background: url("../img/grid-bg.png") repeat-y;
+	background: url("../img/bg-grid.png") repeat-y;
 }
