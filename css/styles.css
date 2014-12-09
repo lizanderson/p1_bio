@@ -1,6 +1,6 @@
 /* Your Website Styles */
 body {
-	background: url("../img/streak.jpg") no-repeat;
+	background: url("../img/hexellence.png");
 	max-width: 100%;
 	text-align: center;
 }
@@ -12,25 +12,15 @@ h1 {
 }
 
 h3 {
-	color: white;
+	color: #229999;
 	text-align: center;
 }
 
 div {
-	color: white;
+	color: #226799;
 	text-align: center;
 }
 
-.img p {
-	color: white;
-	text-align: center;
-}
-
-img {
-	max-width: 200px;
-	text-align: center;
-	max-height: 250px;
-}
 
 .subhead {
 	font-style: none;
@@ -38,7 +28,7 @@ img {
 
 a {
 	text-decoration: none;
-	color: #227799;
+	color: #226799;
 }
 
 /* Show Grid */
