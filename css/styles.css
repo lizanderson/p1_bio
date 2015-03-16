@@ -1,26 +1,57 @@
 /* Your Website Styles */
 body {
-	background: url("../img/hexellence.png");
+	background: url("../img/hexabump.png");
 	max-width: 100%;
-	text-align: center;
 }
 
 h1 {
 	font-family: 'Baskerville';
 	text-align: center;
 	font-size: 5em;
+	color: #229999;
 }
 
 h3 {
 	color: #229999;
-	text-align: center;
+	float: right;
+	margin-right: 75px;
 }
 
-div {
+.grow-up {
+	color: #229999;
+	float: left;
+	margin-top: 25px;
+	margin-right: 25px;
+}
+
+.background {
 	color: #226799;
-	text-align: center;
+	text-align: left;
+	width: 400px;
+	float: left;
+	margin-top: 25px;
 }
 
+.class {
+	color: #229999;
+	float: right;
+	margin-top: 25px;
+	margin-left: 25px;
+}
+
+.major {
+	color: #226799;
+	text-align: right;
+	width: 400px;
+	float: right;
+	margin-top: 90px;
+}
+
+img {
+	transform: rotate(90deg);
+	max-height: 350px;
+	margin-top: 50px;
+}
 
 .subhead {
 	font-style: none;
@@ -29,6 +60,7 @@ div {
 a {
 	text-decoration: none;
 	color: #226799;
+	float: right;
 }
 
 /* Show Grid */
