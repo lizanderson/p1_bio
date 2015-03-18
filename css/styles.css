@@ -7,14 +7,14 @@ body {
 h1 {
 	font-family: 'Baskerville';
 	text-align: center;
-	font-size: 5em;
+	font-size: 4em;
 	color: #229999;
 }
 
 h3 {
 	color: #229999;
 	float: right;
-	margin-right: 75px;
+	margin-right: 95px;
 }
 
 .grow-up {
@@ -61,6 +61,7 @@ a {
 	text-decoration: none;
 	color: #226799;
 	float: right;
+	margin-right: 90px;
 }
 
 /* Show Grid */
